@@ -1,4 +1,4 @@
-# Oi, eu sou a Malu 👋
+# Oi, eu sou Malu 👋
 
 🎓 Estudante de Engenharia de Computação  
 💻 Interesse em Inteligência Artificial, Sistemas e Desenvolvimento  
@@ -16,4 +16,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maluxbrito&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=maluxbrito&theme=radical)
