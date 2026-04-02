@@ -1,6 +1,6 @@
 # Oi, eu sou Malu 👋
 
-🎓 Estudante de Ciência da Computação na UFBA
+🎓 Estudante de Ciência da Computação na UFBA                                      
 💻 Interesse em Inteligência Artificial, Ciência de dados e Desenvolvimento  
 🚀 Buscando evoluir e ganhar experiência prática com projetos
 
