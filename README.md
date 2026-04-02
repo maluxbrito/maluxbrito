@@ -12,5 +12,5 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maluxbrito&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maluxbrito&show_icons=true&theme=github_dark)
 
