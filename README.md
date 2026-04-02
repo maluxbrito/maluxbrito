@@ -12,6 +12,5 @@
 
 ## 📊 GitHub Stats
 
-![Malu's GitHub stats](https://github-readme-stats.vercel.app/api?username=maluxbrito&show_icons=true&theme=radical)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=maluxbrito&show_icons=true&theme=github_dark)
 
